@@ -1,0 +1,100 @@
+    @media (min-width: 992px)
+{
+    .mw-lg-130 {
+        max-width: 130%;
+    }
+}
+
+
+@media (max-width: 991.98px) {
+    h3 {
+        font-size: 1.125rem;
+    }
+}
+.container {
+
+    padding-left: 1.25rem!important;
+    padding-right: 1.25rem!important;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 21px;
+}
+
+.fs-lg {
+    font-size: 19px!important;
+}
+
+.text-muted {
+    color: #869ab8!important;
+}
+
+.myfont {
+    font-size: 31px;
+    font-family: sans-serif;
+    margin: 0 0 16px;
+}
+@media (min-width: 1200px) {
+    .container-xl, .container-lg, .container-md, .container-sm, .container {
+      max-width: 1040px!important;
+    }
+}
+.hfont {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.icon {
+    width: 3rem;
+    height: 3rem;
+}
+@media (min-width: 992px)
+{
+    .w-lg-130 {
+        max-width: 130%;
+    }
+}
+@media (min-width: 360px)
+{
+    .myw-100 {
+        max-width: 100%;
+    }
+}
+@media (min-width: 935px)
+{
+    .mw-md-130 {
+        max-width: 125%;
+    }
+}
+
+.img-r {
+    transform: rotateX(17deg) rotateY(327deg) rotateZ(8deg);
+
+}
+.image-skew {
+    perspective: 1500px;
+    transform-style: preserve-3d;
+    perspective-origin: 0%;
+}
+.shadow {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.25) !important;
+  }
+.shape-bottom {
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.mypadding {
+    padding-top: 8rem;
+}
+.my-bg {
+    background-image: linear-gradient(180deg,#f9fbfd 0,#fff);
+}
+.serif {
+    font-family: serif;
+}
+
+@font-face {
+    font-family: HelveticaNeueLTPro-Hv,HelveticaNeue-Heavy,"Helvetica Neue Heavy","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    src: url();
+}
